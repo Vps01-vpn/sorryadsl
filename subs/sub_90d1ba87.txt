@@ -1,0 +1,1 @@
+vless://7efed0dc-065f-46c6-b5bb-0b123ca1fa9f@109.107.182.227:11777?encryption=none&security=none&type=tcp#Vless-vvweufgl
