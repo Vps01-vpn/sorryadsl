@@ -1,1 +1,1 @@
-vless://7efed0dc-065f-46c6-b5bb-0b123ca1fa9f@109.107.182.227:11777?encryption=none&security=none&type=tcp#Vless-vvweufgl
+Error occurred: HTTPSConnectionPool(host='109.107.182.227', port=2096): Max retries exceeded with url: /sub/ppr2rs9hkqczufdu (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7a8b4199d400>, 'Connection to 109.107.182.227 timed out. (connect timeout=10)')) 🚨
